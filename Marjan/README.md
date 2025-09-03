@@ -1,5 +1,5 @@
 ![Title](MARJAN.jpg)
-![Screenshot](/Asset/Screenshot.JPG)
+![Screenshot](Asset/Screenshot.JPG)
 
 # Marjan
 This is the repository of an old DOS program I wrote back in 1990, called Marjan.
