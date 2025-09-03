@@ -1,0 +1,23 @@
+
+
+            Structure of file : SAND\ALBUMS.DBF
+            Last updated   : 01/13/93
+            Total number of records in file : 9
+            Total number of fields in file  : 11
+
+            Fld_Name       Fld_Len   Fld_Type   Fld_Dec
+            ========       =======   ========   =======
+         1   ORDNR              20        C 
+         2   COMNR               3        N          0
+         3   ALTNR               7        N          0
+         4   VOLUME              3        C 
+         5   YEAR                4        N          0
+         6   MULTIART            1        L 
+         7   DOP                 8        D 
+         8   STATUS              1        C 
+         9   MEDNR               3        N          0
+        10   GENNR               3        N          0
+        11   PRIJS               7        N          2
+
+            ** Total          60
+

@@ -1,0 +1,2 @@
+rmake hc
+rmake main

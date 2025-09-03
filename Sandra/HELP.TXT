@@ -1,0 +1,238 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Standaard applicatie-schermen...
+%
+.screen 1000:Informatie
+
+ @PROGRAM, @VERSION
+ door @AUTHOR
+ S/N : @SERIAL
+ Licentie : @OWNER
+ @COPYRYEARS
+ @COPYROWNER
+
+.topic 1001:Toetsen
+
+ In @PROGRAM hebben toetsen, of combinaties
+ van toetsen, vaak een aparte betekenis,
+ eventueel afhankelijk van de situatie waarin
+ @PROGRAM verkeerd.
+
+ Er volgt nu een beschrijving van de functie
+ van toetsen, ingedeeld per situatie :
+
+  Selectie en Besturing
+ ~        ~ Cursor Op/Neer
+ ~        ~ Cursor Links/Rechts
+ ~PgUp     ~ Pagina Omhoog
+ ~PgDn     ~ Pagina Omlaag
+ ~Home     ~ Eerste Rij
+ ~End      ~ Laatste Rij
+ ~ÄÙ      ~ Selecteer
+
+  Invoer van data
+ ~CTRL-Y   ~ Wis vanaf positie
+ ~Del      ~ Wis teken onder cursor
+ ~Ins      ~ Wijzig invoegstatus
+ ~Ä       ~ Wis teken links
+ ~CTRL-U   ~ Ophalen oude waarde
+ ~ÄÙ      ~ Be‰indig invoeren veld
+ ~Tab      ~ Volgende veld
+ ~Shift-Tab~ Vorige veld
+
+  Algemeen
+ ~Esc      ~  Annuleren
+ ~F1       ~  Hulp
+
+.topic 10000:Over Help
+
+ De helpfunctie van @PROGRAM geeft u informatie
+ over de op dat moment actieve functie(s).
+
+ Denk hierbij bv. aan informatie over :
+  Het menu
+  Invoer van gegevens en eventuele betekenis
+  Getoonde informatie
+  En vele andere zaken
+
+ De helpfunctie is (altijd) aanwezig onder
+ de toets ~F1~. De helpfunctie kent zelf ook
+ enige functies :
+
+ ~F1~       Wat u nu ziet
+ ~Shift F1~ Toont index
+ ~Alt F1~   Toont de hiervoor actieve hulptekst
+ ~Esc~      Be‰indigt helpfunctie
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% De woordenschat ...
+%
+.word 25000:Conventioneel geheugen
+
+ Hiermee wordt bedoeld de onderste laag in het
+ geheugen, en loopt meestal t/m 640kb.
+
+.word 25001:Directory
+
+ U kunt disks opdelen in directories om files
+ eenvoudig te kunnen vinden. Het is ook een manier
+ om bij elkaar horende files te groeperen. Op elke disk
+ bestaat er slechts ‚‚n zgn. hoofddirectory, de
+ root-directory (bv. ~C:\~).
+
+.word 25002:DOS
+
+ Disk Operating System (vrij vertaald : Disk
+ Besturingssysteem). Het besturingssysteem wat de PC
+ controleert. De twee hoofdrichtingen in DOS zijn
+ Microsoft's MS-DOS en DR-DOS van Digital Research.
+
+ Voor @PROGRAM heeft u een van beide nodig,
+ en wel een versie 3.30 of hoger.
+
+.word 25003:EMS Geheugen
+
+ Expandended Memory. Een manier om het geheugen boven
+ de 640kb te benutten. Dit wordt verkregen door :
+  extra geheugenchips in de PC te plaatsen
+  een zgn. Expanded Memory Manager te installeren.
+   Dit is een programma wat ervoor zorgt dat u het
+   geheugen boven 640kb via EMS kunt gebruiken.
+
+.word 25004:XMS Geheugen
+
+ Extended Memory. Een manier om het geheugen boven de
+ 640kb te benutten. Dit wordt verkregen door :
+  extra geheugenchips in de PC te plaatsen
+  een zgn. Extended Memory Manager te installeren.
+   Dit is een programma wat ervoor zorgt dat u het
+   geheugen boven 640kb via XMS kunt gebruiken.
+
+.word 25005:HMA
+
+ Het geheugengebied tussen 640kb en 1Mb. Dit gebied
+ huisvest o.a. uw videokaart, maar kan ook door o.a.
+ MS-DOS 5.0 worden benut voor het ontlasten van het
+ conventionele geheugen door het hoog laden van
+ netwerk-drivers, mouse-drivers, e.d.
+
+.word 25006:Path
+
+ Defini‰ert de locatie van bestanden. Indien een
+ bestand zich bevindt op drive C in de directory
+ HALLO, dan luidt het Path : C:\HALLO.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Applicatie-specifieke teksten ...
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Invoer-praat
+%
+.topic 5001:Bestelnummer
+ Het bestelnummer van de geluidsdrager. Dit vindt
+ u vaak op de rugzijde van de verpakking.
+
+ Voorbeelden : ~4509-91014-2~
+               ~MCAD-10594~
+               ~TPLP42CD~
+.topic 5002:Titel Album
+ De titel van het album.
+
+ Voorbeelden : ~Het Nationale Muziekkado~
+               ~Het Beste Van...~
+               ~Hits Of The...~
+.topic 5003:Volume
+ Indien van toepassing : Het volgnummer
+ van een album uit een bepaalde serie.
+
+ Voor Het Nationale Muziekkado kunt u hier
+ bv. invullen ~1992~, ~1993~ etc. U kunt ook
+ ~1~,~2~,~3~... of ~I~, ~II~, ~III~,
+ ~IV~... invullen.
+.topic 5004:Media
+ Het type geluidsdrager.
+
+ Voorbeelden : ~CD~
+               ~MD~
+               ~LP~
+.topic 5005:Aantal
+ Het aantal geluidsdragers behorende bij het
+ album. Voor bv. een dubbel-CD staat hier een
+ ~2~. Normaal gesproken volstaat ~1~. Dit getal
+ wordt in @PROGRAM gebruikt om nummers te
+ identificeren voor bv. de programmering van
+ de CD-speler.
+.topic 5006:Genre
+ Het genre waartoe het album behoort.
+
+ Voorbeelden : ~Klassiek~
+               ~Populair~
+               ~Jazz~
+.topic 5007:Label
+ De uitgever van het album.
+
+ Voorbeelden : ~Polygram~
+               ~Arcade~
+               ~MCA~
+.topic 5008:Jaar
+ Het jaar waarin het album is uitgebracht.
+
+ Voorbeeld   : ~1992~
+               etc.
+.topic 5009:Datum van Aanschaf
+ Op welke datum u het album heeft gekocht.
+
+ Voorbeeld   : ~30-10-92~
+               etc.
+.topic 5010:Prijs
+ Hoeveel u voor het album heeft betaald.
+
+ Voorbeelden : ~39.95~
+                ~0.00~ (Deze was gratis)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Module-praat
+%
+.topic 001:Hoofdmenu
+
+ In het hoofdmenu van @PROGRAM bevinden
+ zich de volgende items :
+
+          100:Bestand
+          200:Muteren
+          300:Functies
+          {400:Opties}
+          500:Help
+
+.topic 400:Opties
+
+ Via het optiemenu kunt u een aantal
+ instellingen van @PROGRAM wijzigen. Het
+ gaat daarbij om :
+          {410}
+          {420}
+          {430}
+          {440}
+
+.topic 410:Printer
+
+.topic 420:Kleuren
+
+.topic 430:Schermregels
+
+ U kunt het aantal schermregels wat @PROGRAM
+ benut instellen. De keuzes die u hierbij heeft
+ hangen o.a. af van uw videokaart. U kunt er ook
+ voor kiezen om de instelling te handhaven die
+ u in uw DOS-omgeving hanteert.
+
+ Opmerking : @PROGRAM kan een instelling
+ van 132 kolommen niet aan. Hierbij treden fouten
+ op in de beeldopbouw.
+
+.topic 440:Audiosignalen
+
+ U kunt het geven van audiosignalen bij
+ bepaalde situaties met behulp van deze
+ optie in- of uitschakelen.
+
+

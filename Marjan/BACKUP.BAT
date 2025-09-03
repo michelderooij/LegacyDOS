@@ -1,0 +1,3 @@
+@echo off
+echo Executing CP-Backup ... Stand By ...
+cpbackup c: marjan c:\marjan /full /drive=a:1440 /rate=1mb /ecc

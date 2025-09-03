@@ -1,0 +1,51 @@
+// compileren
+
+.prg.obj:
+     clipper $< /M /B
+
+.c.obj:
+     cl /c /AL /Zl /Oalt /FPa /Gs $<
+
+translat.obj: translat.c
+
+bonderh.obj: bonderh.prg
+bafdruk.obj: bafdruk.prg
+bdos.obj: bdos.prg
+beinde.obj: beinde.prg
+
+muteren.obj: muteren.prg
+compile.obj: compile.prg
+
+optsound.obj: optsound.prg
+optcolor.obj: optcolor.prg
+optprint.obj: optprint.prg
+optscrn.obj: optscrn.prg
+
+overhelp.obj: overhelp.prg
+index.obj: index.prg
+toetsen.obj: toetsen.prg
+about.obj: about.prg
+
+menu.obj: menu.prg
+
+specfunc.obj: specfunc.prg
+progress.obj: progress.prg
+algemeen.obj: algemeen.prg
+video.obj: video.prg
+ed.obj: ed.prg
+help.obj: help.prg
+
+main.obj: main.prg
+loader.obj: loader.prg
+
+// OBJ->EXE :
+
+m.exe: loader.obj main.obj menu.obj \
+bonderh.obj bafdruk.obj bdos.obj beinde.obj \
+muteren.obj \
+compile.obj \
+optcolor.obj optsound.obj optprint.obj optscrn.obj \
+about.obj toetsen.obj index.obj overhelp.obj \
+algemeen.obj video.obj progress.obj specfunc.obj ed.obj help.obj
+ blinker @main debug nobell
+

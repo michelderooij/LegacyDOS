@@ -1,0 +1,17 @@
+* 
+* RRCGI edit options
+* 
+Library:        C:\MARJAN\MARJAN.RP1
+Report:         "Lijst met programmatuur"
+Program:        r_prog
+Dialect:        Clipper
+GenerateQUIT:   No
+Verbose:        No
+CompletePath:   No
+Index:          No
+FuncOption:     Generate-All
+UniqueSuffix:   No
+TypeSuffix:     
+Suffix:         
+Merge:          Yes
+Optimization:   Performance

@@ -1,0 +1,44 @@
+// makepath[.obj]="\cowess\objects"
+// makepath[.prg]="\cowess\source"
+
+.prg.obj: 
+    clipper $< /M /B
+
+marjan.obj: marjan.prg
+p_afdruk.obj: p_afdruk.prg
+p_chkfls.obj: p_chkfls.prg
+p_color.obj: p_color.prg
+p_dos.obj: p_dos.prg
+p_einde.obj: p_einde.prg
+p_func.obj: p_func.prg
+p_graph.obj: p_graph.prg
+p_help.obj: p_help.prg
+p_info.obj: p_info.prg
+p_inf1.obj: p_inf1.prg
+p_inf2.obj: p_inf2.prg
+p_logo.obj: p_logo.prg
+p_main.obj: p_main.prg
+p_muteer.obj: p_muteer.prg
+p_mutarc.obj: p_mutarc.prg
+p_mutcat.obj: p_mutcat.prg
+p_onderh.obj: p_onderh.prg
+p_opties.obj: p_opties.prg
+p_prncat.obj: p_prncat.prg
+p_prndsk.obj: p_prndsk.prg
+p_prnprg.obj: p_prnprg.prg
+p_prnset.obj: p_prnset.prg
+p_remall.obj: p_remall.prg
+p_zoekd.obj: p_zoekd.prg
+p_zoekf.obj: p_zoekf.prg
+p_ult3.obj: p_ult3.prg
+
+
+marjan.exe: \
+MARJAN.OBJ      P_AFDRUK.OBJ    P_CHKFLS.OBJ \
+P_COLOR.OBJ     P_DOS.OBJ       P_EINDE.OBJ     P_FUNC.OBJ      P_GRAPH.OBJ  \
+P_HELP.OBJ      P_INF1.OBJ      P_INF2.OBJ      P_INFO.OBJ      P_LOGO.OBJ   \
+P_MAIN.OBJ      P_MUTARC.OBJ    P_MUTCAT.OBJ    P_MUTEER.OBJ    P_ONDERH.OBJ \
+P_OPTIES.OBJ    P_PRNCAT.OBJ    P_PRNDSK.OBJ    P_PRNPRG.OBJ    P_PRNSET.OBJ \
+P_REMALL.OBJ	P_ULT3.OBJ  	P_ZOEKD.OBJ 	P_ZOEKF.OBJ 
+
+// einde MAKE file 

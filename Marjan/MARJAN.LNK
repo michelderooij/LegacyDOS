@@ -1,0 +1,86 @@
+#
+#  P.Lnk: Marjan link-script voor normale versie
+#         Marjan is (C)1990,1991,1992 M.de Rooy
+#         Public-versies zijn vrij verspreidbaar
+
+output marjan
+
+nobell
+
+blinker executable clipper f30
+blinker incremental off
+blinker executable serial R 999999 3.50 <Ongeregistreerd>
+blinker overlay fixed
+blinker overlay opsize 16
+
+file marjan
+#debug
+file resident
+file dgevgad, dgecgcd, dgecgmd, dgehrcd
+
+BEGINAREA
+   FILE p_main
+   FILE p_help
+   #file blerrc50
+   #file errorsys
+   SECTION
+      file p_ult3
+   SECTION
+      FILE p_func  
+   SECTION
+      FILE p_chkfls
+   SECTION
+      FILE p_logo  
+   SECTION
+      FILE p_info  
+   BEGINAREA
+      SECTION
+         FILE p_inf1
+      SECTION
+         FILE p_inf2
+      SECTION
+         FILE p_graph
+   ENDAREA
+   SECTION
+      FILE p_muteer
+   BEGINAREA
+      SECTION
+         FILE p_zoekd 
+      SECTION
+         FILE p_zoekf 
+   ENDAREA
+   SECTION
+      FILE p_afdruk
+   BEGINAREA
+      SECTION
+         FILE p_prnprg
+      SECTION
+         FILE p_prndsk
+      SECTION
+         FILE p_prncat
+   ENDAREA
+   SECTION
+      FILE p_opties
+   BEGINAREA
+      SECTION
+         FILE p_onderh
+      SECTION
+         FILE p_mutarc
+      SECTION
+         FILE p_mutcat
+      SECTION
+         FILE p_remall
+      SECTION
+         FILE p_prnset
+      SECTION
+         FILE p_color 
+   ENDAREA
+   SECTION
+      FILE p_dos
+   allocate overcl
+   allocate extend
+ENDAREA
+lib mylib
+lib dge
+lib clipper
+# eof marjan.lnk

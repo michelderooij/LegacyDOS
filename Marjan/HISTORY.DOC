@@ -1,0 +1,219 @@
+
+V1.00 - 12/02/91 (demo) 
+      De eerste stap is gezet (in de goede richting ...)        
+	
+V1.03 - 13/02/91 (demo) 
+      -Enkele 'bugs' verholpen, te weten :      
+       1. De correctie met diskaantallen werkt nu perfect tijdens muteren       
+	  en ook bij het onderhoud wordt deze nu goed gezet     
+       2. Bij de eerste versie werdt de applicatie gestopt na   
+	  een aantal 'procedure calls' i.p.v. een bepaalde tijd 
+	
+V1.04 - 13/02/91 (demo) 
+      -Er is nu op het menuscherm een ASCII-label aangebracht   
+      -Er wordt gecheckt op de aanwezigheid van de benodigde files      
+      -Bij 'info' worden nu niet-gebruikte disktypes en archieven niet getoond  
+      -De archief-index is verwijderd, omdat deze niet relevant is, en dus      
+       alleen maar ruimte in beslag neemt               
+      -De demo loopt nu 15 minuten      
+	
+V1.05 - 27/02/91 (demo) 
+      - De archieflijst is nu uitbreidbaar. Dit in tegenstelling tot de 
+	voorgaande versies waarin alleen te editten was in 12 items.    
+      - Je kunt nu kiezen of de printer IBM-Graphics af mag drukken. Is dit     
+	niet het geval, dan neemt het programma alternatieven voor de af te     
+	drukken codes, bv. '-' en '|'   
+      - De TABEL oproepen in edit-mode werkt nu goed. Eerdere versies gaven     
+	geen tabel als er een nieuw item werdt aangemaakt waarvan de disk niet  
+	bekend was      
+      - De regels Ongemerkt/Gemerkte records afdrukken werkte precies   
+	andersom dan gewenst. Dit is gecorrigeerd       
+      - Mensen met een kleurenkaart (EGA/VGA) hebben nu een gekleurde border    
+	d.m.v. 'overscan'       
+	
+V1.10 - ../../.. (demo) 
+      - Een aantal visuele effecten toegevoegd  
+      - Bij het muteren stond er bij de help-funktie    
+	CTRL & Cursor omhoog/omlaag i.p.v. CTRL & Page Up/Down  
+      - Aanpassing en uitbreiding van de helptekst      
+      - De OVL file is verdwenen. Marjan is nu 1 EXE-file.      
+      - M.b.v. de parameters /M en /C kun je nu aangeven of je in kleur 
+	wilt werken of niet. Als dit niet opgegeven is gaat Marjan af op        
+	je type monitor/kaart. /C = kleur, /M = mono    
+      - Je kunt nu ook een disk zoeken, door bij muteren op de rij met  
+	disknr's te gaan staan, en dan de zoekfunctie aan te roepen     
+      - In de diskettelijst worden nu wel programma's die op verschillende      
+	manieren zijn opgeslagen zo ook aangegeven in de        
+	diskettlijst    
+      - Er zijn nu ook 1.72MB 3.5" schijven opgenomen, n.a.v. FDFORMAT.	
+	Dit n.a.v. van reakties uit de omgeving, en omdat bleek dat veel        
+	mensen dit prog. daadwerkelijk serieus gebruiken        
+      - De demo loopt nu 30 minuten, n.a.v. van klachten over het stoppen       
+	van marjan tijdens het invoeren van veel programma's, omdat men 
+	kennelijk niet allemaal zo snel typt    
+      - lay-out bij het kiezen van schijf-type verbeterd        
+      - De standaard-lijst van archief/backup programma's uitgebreid    
+	
+V2.00 19/07/91 (demo)
+      - De printer-start codes komen nu wel bij de printer terecht.     
+	Tevens is het ingeven van deze codes nu anders, en is daardoor zelfs    
+	eenvoudiger geworden    
+      - Het instellen van de printer nu is ondergebracht in een 
+	menu-onderdeel bij 'Afdruk', nl. Instellingen. Vanaf nu kunt    
+	u dus gelijk gaan printen       
+      - De info is het uitgebreider. Het menu is opgesplitst in 3 delen:        
+	1. Database : de oude info. Een overzicht van het gebruik van disks     
+	   en archief/backup-programmatuur      
+	2. Algemeen : Informatie m.b.t. disk, machine, memory, en video 
+	3. Marjan   : Wat propaganda    
+      - 'Bug' verholpen : Als een disk meerdere programma's bevatte, en 
+	dus het diskaantal op 0 stond, bleek het niet mogelijk om de    
+	archief/backupprog.-id direct te wijzigen, zodat men in het     
+	invoerveld van diskaantal bleef hangen. Dit is nu verholpen.    
+      - De help-functie is verbeterd: Men hoeft nu niet meer te scrollen,
+	want afhankelijk van de hoeveelheid tekst wordt er een zodanig groot
+	window op het scherm gezet, dat alle tekst erin staat.
+      * Je kunt nu via het hoofdmenu naar DOS 'shellen'. Marjan laat dan
+	ongeveer 10 kb resident.
+      * Bij informatie een grafische weergave van de verdelingen toegevoegd.
+	Dit is het moduul wat Marjan in omvang flink wat in KB's doet   
+	toenemen, omdat er van elke grafische modus (HERC, CGA-mono/color,      
+	EGA, en VGA) een driver aanwezig is
+
+	N.B. : De met een '*' vermelde punten waren alleen bruikbaar/aanwezig
+	       in de geregistreerde versie van Marjan.
+
+V2.01 26/07/91 (demo) * minor update
+      - Support-Node : heeft altijd meest recente versie, via hier beantwoordt
+	schrijver Marjan vragen/opmerkingen, en verwerkt registraties.
+	Escape BBS, 03408-70297, Node 512/121, SysOp : Hans de.Vor
+	(Net)Mail te zenden aan Michel de.Rooy (Let op punt!)
+      - De prijs van een geregistreerde versie is iets omhoog gegaan. Dit komt
+	tengoede van de gebruikers, omdat de gelden gebruikt worden om
+	de support op Escape BBS te onderhouden (denk bv. aan telefoonkosten).
+
+V2.10 28/07/91 * medium update
+      - Marjan gaat nu vergezeld van een installatie-programma. (v1.00)
+
+V3.00 09/01/92 * major update
+      - Er is bij het muteren een kolom toegevoegd die aangeeft de WIS-status
+	van dat record.
+      - I.p.v. 'T' en 'F' als True/False bij de kolom Merk tijdens muteren
+	komt nu een 'û' als het programma gemerkt is.
+	Dit tesamen met de verandering hierboven genoemd maakt het overzicht
+	op de gehele tabel beter.
+      - Bij de niet geregistreerde versie klapte Marjan eruit bij Algemene
+	info. Dit kwam omdat de ingelinkte lib voor reg.-versies nu niet
+	aanwezig is, en een variabele die dan gezet wordt nu onbepaald is
+	wil evalueren. Dat is verholpen, maar de kaart wordt nu altijd
+	bij ongeregistreerde versies niet getoond.
+      - Bij het bekijken van de tabel springt u nu naar het gegeven wat
+	evt. begint met het karakter wat u intoetst, ipv. dat het het
+	huidige record gaat veranderen, te beginnen met de ingetoetste letter.
+      - Het '[Esc]' item was onzichtbaar bij de help-functie. Foutje!
+      - Enkele kleine schoonheidsfoutjes verholpen.
+      - Nieuwe kleuren-set.
+      - Standaard nu merk=UIT bij nieuw record.
+      - Er is nu een 'categorie' item bij gekomen. U kunt nu de
+	programma's onder gaan verdelen in bv. spellen, utilities, e.d.
+	Deze lijst is uiteraard ook te wijzigen. Het informatie-item is
+	hierdoor ook uitgebreid met het item categorie‰n-gebruik. Bij het
+	invoeren is ook hiervan een opzoek-tabel oproepbaar met F2 net als
+	bij archivers.
+      - Als u via het info-menu een programma's heeft geselecteerd die aan
+	een 'voorwaarde' voldoen, dan kunt u nu ook tijdens dat u in die
+	tabel bladert ook een andere index activeren, of in de tabel zoeken.
+
+V3.01 11/01/92 * minor update
+      - Bij grafiek van Info->Databases->Archive/Backup was verkeerd. Verholpen.
+
+V3.10 15/01/92 * medium update
+      - Het is nu mogelijk om de printer-uitvoer naar een file te sturen.
+	Instelmenu is daarom uitgebreid, en is nu ook altijd toegankelijk
+	(Dus voor instellingen hoeft u niet meer de printer aan te zetten).
+      - De instellingen-file is hernoemd tot "marjan.cfg".
+      - Afsluit-bericht toegevoegd.
+      - Instellingen voor printer is niet meer van toepassing :
+	Andere instellingen worden hier ook ondergebracht, dus submenu
+	is verplaatst naar 'Opties'.
+      - De laatste 'lijn' bij printeruitvoer komt nu onderaan de lijst
+	i.p.v. onderaan het papier.
+      - Ook nu uitlijsten per categorie mogelijk.
+      - De lay-out van de lijsten veranderd. Kolom Archief/Backup vervangen
+	door Categorie.
+      - Diskindex is nu op disknr+CAT+naam i.p.v. disknr+naam. Dit maakt
+	de diskettelijst netter.
+      - Enkele 'fouten' uit de documenten gehaald, en een UPDATE.DOC toegevoegd.
+
+V3.50 XX/XX/92 * medium update
+      - Instellen van kleuren nu mogelijk. Standaard instellingen aanwezig,
+	voor kleuren en monochrome systemen. LCD kan ik niet testen :
+	Wie heeft er een LCD scherm ?
+      - Help-file uitgebreider. Er waren nog enkele situaties zonder
+	bijbehorende tekst (Zoeken op disk/programma). Tevens enkele kleine
+	foutjes uit de teksten gehaald.
+      - Bij 'Mutatie' krijg je nu de actuele index rechtsonderaan het scherm
+	te zien. Dit omdat als je bv. gaat zoeken op naam, en je index staat
+	op categorie, je niet na je gevonden record de eerstvolgende naam ziet.
+      - Je kunt nu ook kiezen voor record-volgorde bij het selecteren index.
+	De records verschijnen dan in volgorde van invoering.
+      - Op de balk onderaan het scherm staan nu de toetsen, die evt.
+	gebruikt kunnen worden danwel een functie hebben, in een andere kleur.
+      - De kleuren-parameter is komen te vervallen, i.v.m. kleuren instellen.
+      - Andere link-methode toegepast.
+	Resultaat : Meer Free-Pool-Memory (ñ 240kb).
+      - DOS-Versie vermelding nu 'X.XX' i.p.v. 'X. X'.
+      - Error-afhandeling gewijzigd. Nu nette mededeling, i.p.v. een
+	regeltje bovenaan. Echt fatale errors worden nog steeds op deze wijze
+	afgehandeld, maar die zult u waarschijnlijk nooit tegenkomen, evenals
+	de minder fatale.
+      - Voor de Windows-gebruiker : Een .PIF en .ICO file toegevoegd.
+      - Na een foutmelding werdt niet altijd het scherm bijgewerkt. Nu wel.
+      - Keyboard emulatie met de muis ingebouwd. De bewegingen van de muis
+	emuleren de cursor-toetsen, en linker-knop [Enter], en de rechter-knop
+	emuleert [Esc]. Voor een PC-Mouse emuleert de middelste [F1].
+      - In het mutatie-tabel kunt u nu niet meer met de selectie-balk voorbij
+	de kolom CAT. U kunt hierin toch niet 'met de hand' wijzigen, dus
+	waarom erin kunnen staan ?
+      - Marjan detecteert nu of u het programma 2x wilt opstarten. Dit kan
+	voorkomen als u bv. vanuit Marjan naar DOS shellt, en dan vervolgens
+	Marjan opstart i.p.v. exit intypt.
+      - Marjan detecteert nu of u een vorige sessie correct heeft afgesloten.
+	Hieronder wordt verstaan het be‰indigen van Marjan door vanuit Marjan
+	via het Submenu 'Einde' te kiezen, en dan vervolgens 'J' in te toetsen.
+	Indien dit niet het geval is aanvaardt de maker GEEN ENKELE
+	VERANTWOORDING voor schade aan bestanden, danwel het niet meer
+	functioneren van de programmatuur. Het is dus UW VERANTWOORDING om
+	Marjan netjes via het menu te be‰indigen.
+      - Het checken op de aanwezigheid van nodige files is nu gecorrigeerd.
+	De vorige checkte niet op progcat.ntx, category.dbf en category.ntx.
+	Tevens gebruikt deze functie nu ook de standaard error-afhandeling.
+      - Het is ook mogelijk om de standaard configuratie opnieuw in te stellen.
+        Hiertoe moet u de file MARJAN.CFG verwijderen.
+      - Bij de grafiek was het laatst zichtbare item niet dat item, maar
+        de 'Overigen'. Dit is nu ook vermeld als zodanig, i.p.v. een als item.
+      - On-Line klokje.
+      - Uit-tro gemaakt.
+      - Info->Algemeen hernoemt tot Info->Systeem.
+      - Vanaf nu kunnen mensen die een eerdere versie dan 3.00 gebruikten,
+        ook hun versie updaten. Hiertoe detecteert INSTALL nu ook of het
+        een versie voor 3.00 betreft, en MARJAN geeft dan bij de eerste run
+        dit aan, waarna de structuur wordt bijgewerkt, ZONDER verlies van
+        gegevens. U moet dan alleen bij alle records evt. hun categorie
+        invoeren.
+      - Enkele spelfouten gecorrigeerd.
+      - Het forceren van een update geschiedt door INSTALL parameters mee te
+        geven. Als u een versie voor 3.00 bezit, geeft u /UE3 mee, en als een
+        versie vanaf 3.00 bezit dan /UV3.
+      - Een 80486 wordt nu ook herkend als zodanig, en afgedaan als een 80386.
+
+V3.50+ xx/xx/xx * ..... update
+      - Marjan is nu een Clipper 5.x programma. De error-afhandeling
+        geschiedt nu door Clipper en de linker, en niet meer door Marjan zelf.
+        Als gevolg hiervan zijn de volgende zaken veranderd (door de
+        onbruikbaarheid van Clipper sum'87 libs in Clipper 5.X e.d.) :
+        - Het klokje is verdwenen.
+        - Meer vrij geheugen nodig om Marjan te kunnen draaien.
+
+
+

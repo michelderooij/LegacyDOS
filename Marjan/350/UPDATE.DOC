@@ -1,0 +1,15 @@
+þ Om Marjan te updaten, dient u alleen de volgende files te copi‰eren naar
+  uw Marjan-directory :
+
+  1. MARJAN.EXE
+  2. MARJAN.CFG
+  3. en evt. de documenten (*.DOC-files).
+
+  Copi‰eren geschiedt dmv. het COPY commando. Voor de syntax hiervoor,
+  zie uw DOS-handboek.
+
+  Tevens kunt u de file PDEF.MEM in uw Marjan-directory wissen dmv. het
+  DEL commando. Deze file is vervangen door MARJAN.CFG. U dient wel even
+  de instellingen opnieuw in te voeren, maar zoveel zijn dat er niet,
+  plus dat er extra instellingen zijn bijgekomen.
+

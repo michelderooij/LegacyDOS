@@ -1,0 +1,50 @@
+ANDN..............andn              BIN2DEC...........m
+COM_GET...........m                 COM_INIT..........m
+COM_PUT...........m                 COM_STATUS........m
+CPU_TYPE..........cpu               EXTMEM............extmem
+GETDRIVE..........getdrive          GETMODE...........getmode
+GETRIGHTS.........m                 L2C...............m
+MOUSEOFF..........mousekey          MOUSEON...........mousekey
+OVERSCAN..........overscan          PRN_INIT..........prn_init
+PRN_STATUS........prn_stat          SETMODE...........setmode
+SETPAL............m                 SETRIGHTS.........m
+TEMPFILE..........m                 TOTMEM............totmem
+
+
+prn_stat          Offset: 00000010H  Code and data size: 55H
+  PRN_STATUS      
+
+andn              Offset: 00000160H  Code and data size: 6cH
+  ANDN            
+
+prn_init          Offset: 000002c0H  Code and data size: 55H
+  PRN_INIT        
+
+getdrive          Offset: 00000410H  Code and data size: 1aH
+  GETDRIVE        
+
+overscan          Offset: 00000510H  Code and data size: 51H
+  OVERSCAN        
+
+getmode           Offset: 00000640H  Code and data size: 25H
+  GETMODE         
+
+setmode           Offset: 00000740H  Code and data size: 49H
+  SETMODE         
+
+totmem            Offset: 00000870H  Code and data size: 14H
+  TOTMEM          
+
+extmem            Offset: 00000970H  Code and data size: 16H
+  EXTMEM          
+
+mousekey          Offset: 00000a70H  Code and data size: 19eH
+  MOUSEOFF          MOUSEON         
+
+m                 Offset: 00000ce0H  Code and data size: 5f7H
+  BIN2DEC           COM_GET           COM_INIT          COM_PUT
+  COM_STATUS        GETRIGHTS         L2C               SETPAL
+  SETRIGHTS         TEMPFILE        
+
+cpu               Offset: 00001660H  Code and data size: 98H
+  CPU_TYPE        

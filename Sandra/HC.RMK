@@ -1,0 +1,8 @@
+.prg.obj:
+        clipper $< /M /B
+
+hc.obj: hc.prg
+
+hc.exe: hc.obj
+  blinker fi hc,nt2gr50 lib nt250 @funcky50 debug nobell
+

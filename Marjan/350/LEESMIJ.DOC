@@ -1,0 +1,53 @@
+þ Marjan is in staat om al je diskettes, van elk type incl.
+  speciaal geformateerde disks, bv. 800KB format in een 1.2MB AT-drive,
+  te administreren, en daar lijsten mee uit te draaien, erin te zoeken,
+  en enige informatie te verkrijgen omtrent gebruik van bv. bepaalde
+  backup-programma's, of bepaalde type diskettes.
+
+þ Vanaf versie 3.00 is Marjan freeware. Het mag dus vrij worden verspreid,
+  en in tegenstelling tot vorige versies hebben nu ook alle gebruikers
+  toegang tot ALLE functies. Toch wil ik erbij vertellen dat giften of
+  donaties altijd welkom zijn. Dit geeft mij nl. weer aanleiding om
+  aan Marjan te blijven werken. Zoals misschien bekend is er alweer
+  2 jaar overheen gegaan sinds het onstaan van het idee en eerste concept
+  voor Marjan. Daarom lijkt mij, indien u Marjan gebruikt en het bevalt,
+  een donatie op zijn plaats. Gelden zijn welkom op het volgende nummer :
+  Postbank : Girorek. 5734178, o.v.v. Marjan. Ook kaarten kunnen gestuurd
+  worden, met de vermelding van gegevens, en hoe u eraan bent gekomen.
+  Deze kunt u sturen naar :
+
+  Michel de Rooy
+  Selvasdreef 31
+  3563 XH  Utrecht
+
+  Een kaartje, kleine moeite ...
+
+þ Mochten er zich in het programma bugs of andere ongewenstheden voordoen,
+  dan hoor ik dat graag. Dit geldt ook voor het installatie-programma.
+
+þ Het programma is geschreven in Clipper. Vandaar alle DBF/NTX/DBT-files.
+  Het is niet aan te raden om 'met de hand' mutaties erin te plegen, omdat
+  bv. de archieven en types via keys aan elkaar 'hangen'.
+
+þ Het programma checkt na uw invoer van een nieuw programma, of de diskette
+  waarop het zou staan al bestaat in de lijst, en voegt deze evt. dan toe, nadat
+  u de specifikaties hebt uitgezocht. Ook wordt er gekeken of er dan al iets op
+  de disk stond, want dan worden de disk-aantallen van al die programma's plus
+  de nieuwe op 0 gezet. Dit is dan tevens een gegeven : een diskette-aantal van
+  0 betekent dat er zich nog meer programma's op de disk bevinden, niet dat het
+  programma geen diskettes in beslag neemt.
+
+þ Er kunnen er zich nog problemen cq. wensen voordoen. Hiervan graag
+  bericht.
+
+þ Tot slot hoop ik dan dat u veel nut mag hebben van Marjan.
+
+  Met vriendelijke groet,
+
+
+  Michel de.Rooy
+  creator
+
+þ P.S.: Mocht er belangstelling voor bestaan, dan kan er in de toekomst voor
+        begeleidende documentatie worden gezorgd. Omdat dit nogal veel
+        tijd en aandacht vergt, kijk ik maar eerst of er wel animo voor is.

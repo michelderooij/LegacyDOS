@@ -1,0 +1,369 @@
+
+
+Programmalijst gegenereerd door Marjan v3.50  op 06/08/95 om 11:56:14
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+     1³ 1-on-1                        ³ a0041 ³  0x1.2Mb ³ GAME-Sporten        
+     2³ 15-Puzzle                     ³ b0085 ³  0x1.4Mb ³ Windows             
+     3³ 16550                         ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+     4³ 2print                        ³ b0073 ³  0x720Kb ³ UTIL-Printer        
+     5³ 2Start                        ³ b0093 ³  0x1.4Mb ³ UTIL-Disk           
+     6³ 360 Icons                     ³ b0089 ³  0x720Kb ³ Windows             
+     7³ 384 Icons                     ³ b0089 ³  0x720Kb ³ Windows             
+     8³ 386 to the Max                ³ b0042 ³  0x720Kb ³ UTIL-Memory         
+     9³ 386DISK                       ³ b0073 ³  0x720Kb ³ UTIL-Memory         
+    10³ 3D Construction Kit           ³ b0377 ³  1x720Kb ³ Teken/CAD Prog.     
+    11³ 3dFract                       ³ b0020 ³  0x720Kb ³ PROG-C              
+    12³ 3dLib                         ³ b0126 ³  0x1.4Mb ³ PROG-Pascal         
+    13³ 4D Sports Boxing              ³ a0214 ³  1x1.2Mb ³ GAME-Sporten        
+    14³ 4DOS Brand 4.2m               ³ b0379 ³  0x720Kb ³ UTIL-DOS/Alg.       
+    15³ 4DOS v4.0                     ³ b0359 ³  0x720Kb ³ Norton Guides       
+    16³ 4DOS v4.00                    ³ b0187 ³  1x720Kb ³ UTIL-DOS/Alg.       
+    17³ 4DOS v4.01                    ³ b0358 ³  1x1.4Mb ³ UTIL-DOS/Alg.       
+    18³ 6 Cylinders (FLI)             ³ b0379 ³  0x720Kb ³ Demonstratie/Prev.  
+    19³ 68000 Emulator                ³ b0039 ³  0x1.4Mb ³ UTIL-DOS/Alg.       
+    20³ 688 Attack Sub                ³ a0037 ³  1x1.2Mb ³ GAME-Simulaties     
+    21³ 80387(SX) Emulator            ³ b0028 ³  0x720Kb ³ UTIL-DOS/Alg.       
+    22³ 80486                         ³ b0018 ³  0x720Kb ³ PROG-ASM            
+    23³ 80x87 Emulator                ³ a0044 ³  0x1.2Mb ³ UTIL-DOS/Alg.       
+    24³ 80x87 Emulator                ³ b0042 ³  0x720Kb ³ UTIL-DOS/Alg.       
+    25³ A.G.E.                        ³ a0153 ³  2x1.2Mb ³ GAME-Algemeen       
+    26³ A.N.W.B. autokosten           ³ a0123 ³  0x1.2Mb ³ Educa/Onderwijs     
+    27³ A10 Scenery disk #1           ³ a0196 ³  1x360Kb ³ GAME-Simulaties     
+    28³ A10 Tank Killer               ³ a0132 ³  1x1.2Mb ³ GAME-Simulaties     
+    29³ A10 Tank killer DOCS          ³ b0091 ³  0x720Kb ³ Documenten          
+    30³ A10 Tank Killer v1.5          ³ b0147 ³  2x1.4Mb ³ GAME-Simulaties     
+    31³ Above disk                    ³ b0042 ³  0x720Kb ³ UTIL-Memory         
+    32³ Acid                          ³ a0201 ³  0x1.2Mb ³ Demonstratie/Prev.  
+    33³ Acied                         ³ a0201 ³  0x1.2Mb ³ Demonstratie/Prev.  
+    34³ AComClip                      ³ b0029 ³  0x1.4Mb ³ PROG-Clipper        
+    35³ Action Fighter                ³ a0253 ³  0x1.2Mb ³ GAME-Algemeen       
+    36³ Action fighter trainer        ³ b0091 ³  0x720Kb ³ Documenten          
+    37³ Advanced label printer        ³ a0026 ³  0x1.2Mb ³ UTIL-Printer        
+    38³ Advc10                        ³ b0020 ³  0x720Kb ³ PROG-C              
+    39³ Afterdark 2.0 (More Afterdark)³ b0285 ³  1x1.4Mb ³ Windows             
+    40³ Airball                       ³ a0293 ³  0x1.2Mb ³ GAME-Algemeen       
+    41³ Airborne Ranger               ³ a0147 ³  1x360Kb ³ GAME-Algemeen       
+    42³ Alien                         ³ b0097 ³  0x1.4Mb ³ UTIL-Disk           
+    43³ AllSCSI                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+    44³ Altered                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+    45³ Altered Destiny               ³ a0263 ³  3x1.2Mb ³ GAME-Adventure      
+    46³ Amaze Computer Calendar v1.0  ³ b0296 ³  4x720Kb ³ Windows             
+    47³ Amazon                        ³ b0091 ³  0x720Kb ³ Documenten          
+    48³ America - VGA fireworks       ³ a0233 ³  0x1.2Mb ³ Grafisch            
+    49³ American Gladiators           ³ b0403 ³  3x720Kb ³ GAME-Sporten        
+    50³ AMI-BIOS docs                 ³ b0044 ³  0x720Kb ³ Documenten          
+    51³ Amicache 1.00                 ³ b0114 ³  0x1.4Mb ³ UTIL-Disk           
+    52³ AmiDiags                      ³ b0041 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+    53³ Amiga Emulator                ³ a0222 ³  1x360Kb ³ UTIL-DOS/Alg.       
+    54³ AMITips                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 1
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+    55³ Amy's first primer            ³ a0022 ³  1x360Kb ³ Educa/Onderwijs     
+    56³ Anadisk                       ³ b0093 ³  0x1.4Mb ³ UTIL-Disk           
+    57³ Anaglyph                      ³ b0160 ³  0x1.4Mb ³ Grafisch            
+    58³ Anarkey                       ³ a0104 ³  1x360Kb ³ UTIL-DOS/Alg.       
+    59³ Ancient art of war            ³ a0086 ³  1x360Kb ³ GAME-Algemeen       
+    60³ ANSI cv 1.1                   ³ b0074 ³  0x1.4Mb ³ Grafisch            
+    61³ ANSI-patch                    ³ b0091 ³  0x720Kb ³ Documenten          
+    62³ Anti-Virus (Norton)           ³ a0161 ³  1x360Kb ³ Virus               
+    63³ Ants                          ³ b0085 ³  0x1.4Mb ³ Windows             
+    64³ ANWB Campinggids Europa - 1   ³ b0069 ³  1x720Kb ³ UTIL-DOS/Alg.       
+    65³ ANWB Campinggids Europa - 2   ³ b0172 ³  1x720Kb ³ UTIL-DOS/Alg.       
+    66³ Aola                          ³ b0041 ³  0x1.4Mb ³ UTIL-Screen         
+    67³ Apple ][ emulator             ³ a0197 ³  1x360Kb ³ UTIL-DOS/Alg.       
+    68³ Application Bar               ³ b0083 ³  0x1.4Mb ³ Windows             
+    69³ Archive Master 4.36           ³ a0026 ³  0x1.2Mb ³ UTIL-Compressie     
+    70³ ARJ                           ³ b0041 ³  0x1.4Mb ³ UTIL-Compressie     
+    71³ ARJ                           ³ b0074 ³  0x1.4Mb ³ UTIL-Compressie     
+    72³ ARJ                           ³ b0080 ³  0x720Kb ³ Norton Guides       
+    73³ ARJ 2.00                      ³ b0075 ³  0x1.4Mb ³ UTIL-Compressie     
+    74³ ARJ 2.22                      ³ b0114 ³  0x1.4Mb ³ UTIL-Compressie     
+    75³ ARJ 2.30                      ³ b0174 ³  0x720Kb ³ UTIL-Compressie     
+    76³ ARJReg23                      ³ b0109 ³  0x1.4Mb ³ Documenten          
+    77³ Arkanoid                      ³ a0041 ³  0x1.2Mb ³ GAME-Algemeen       
+    78³ Arkanoid                      ³ a0103 ³  0x360Kb ³ GAME-Algemeen       
+    79³ Arkanoid ][                   ³ a0206 ³  1x360Kb ³ GAME-Algemeen       
+    80³ Army                          ³ a0091 ³  0x1.2Mb ³ GAME-Denkspelen     
+    81³ Asm65c02                      ³ b0018 ³  0x720Kb ³ PROG-ASM            
+    82³ ASMCourse                     ³ b0018 ³  0x720Kb ³ PROG-ASM            
+    83³ ASMWiz                        ³ b0018 ³  0x720Kb ³ PROG-ASM            
+    84³ Assem                         ³ b0018 ³  0x720Kb ³ PROG-ASM            
+    85³ Async                         ³ b0020 ³  0x720Kb ³ PROG-C              
+    86³ AT-BIOS                       ³ a0026 ³  0x1.2Mb ³ UTIL-Diags.& Perf.  
+    87³ AT-Performance v2.0           ³ b0357 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+    88³ ATFloat                       ³ b0160 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+    89³ Atom                          ³ a0201 ³  0x1.2Mb ³ Demonstratie/Prev.  
+    90³ Atomix                        ³ a0143 ³  1x360Kb ³ GAME-Algemeen       
+    91³ ATPerf                        ³ b0075 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+    92³ Authorware Professional       ³ b0280 ³  3x1.4Mb ³ Windows             
+    93³ Autodesk 3D Studio            ³ b0140 ³  7x1.4Mb ³ Teken/CAD Prog.     
+    94³ Autodesk Animator v1.0        ³ b0043 ³  1x1.4Mb ³ Teken/CAD Prog.     
+    95³ Autodoc                       ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+    96³ Autoroute Express - BeNeLux   ³ b0259 ³  1x1.4Mb ³ UTIL-DOS/Alg.       
+    97³ Autoroute Express - Europe    ³ b0149 ³  1x1.4Mb ³ UTIL-DOS/Alg.       
+    98³ Autoroute Express - France    ³ b0170 ³  1x1.4Mb ³ UTIL-DOS/Alg.       
+    99³ Autosketch                    ³ b0000 ³  1x1.4Mb ³ Teken/CAD Prog.     
+   100³ B.P.M.                        ³ b0160 ³  0x1.4Mb ³ Demonstratie/Prev.  
+   101³ Babbelbox                     ³ b0044 ³  0x720Kb ³ Documenten          
+   102³ Baby                          ³ a0041 ³  0x1.2Mb ³ GAME-Algemeen       
+   103³ Back on PC                    ³ a0246 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   104³ Backgammon                    ³ b0085 ³  0x1.4Mb ³ Windows             
+   105³ Background Formatter 1.5      ³ b0174 ³  0x720Kb ³ UTIL-Disk           
+   106³ Bananoid                      ³ a0076 ³  1x360Kb ³ GAME-Algemeen       
+   107³ Banner 2.5                    ³ b0249 ³  0x1.4Mb ³ UTIL-Compressie     
+   108³ Banner Mania                  ³ b0010 ³  1x720Kb ³ UTIL-Printer        
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 2
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+   109³ Barbarian                     ³ a0052 ³  1x360Kb ³ GAME-Algemeen       
+   110³ Bargames                      ³ a0259 ³  0x1.2Mb ³ GAME-Algemeen       
+   111³ Bart Eye 2                    ³ b0085 ³  0x1.4Mb ³ Windows             
+   112³ Bart Simpson vs. Space Mutants³ a0169 ³  1x1.2Mb ³ GAME-Algemeen       
+   113³ Bart Simpson Wallpaper        ³ b0085 ³  0x1.4Mb ³ Windows             
+   114³ Bart Simpson's House of Weird.³ a0272 ³  2x1.2Mb ³ GAME-Algemeen       
+   115³ Batman                        ³ a0112 ³  1x360Kb ³ GAME-Algemeen       
+   116³ BATman                        ³ b0097 ³  0x1.4Mb ³ UTIL-DOS/Alg.       
+   117³ Battle Command                ³ b0001 ³  1x720Kb ³ GAME-Algemeen       
+   118³ Battle Isle                   ³ b0401 ³  2x720Kb ³ GAME-Denkspelen     
+   119³ Battle of Brittain DOCS       ³ b0091 ³  0x720Kb ³ Documenten          
+   120³ Battlechess                   ³ a0038 ³  0x1.2Mb ³ GAME-Denkspelen     
+   121³ Battlehawks 1942              ³ a0028 ³  1x1.2Mb ³ GAME-Simulaties     
+   122³ Battleship                    ³ a0204 ³  0x1.2Mb ³ GAME-Algemeen       
+   123³ Battlestorm                   ³ a0229 ³  1x360Kb ³ GAME-Algemeen       
+   124³ Beetlejuice                   ³ a0120 ³  0x1.2Mb ³ GAME-Algemeen       
+   125³ Bells                         ³ b0075 ³  0x1.4Mb ³ Audio/Muziek        
+   126³ Bigdesk                       ³ b0083 ³  0x1.4Mb ³ Windows             
+   127³ Bill & Ted's excellent adv.   ³ a0216 ³  2x1.2Mb ³ GAME-Adventure      
+   128³ Bill Elliot's Nascar Chal.    ³ a0228 ³  1x1.2Mb ³ GAME-Racing         
+   129³ BIOS IRQ                      ³ b0040 ³  0x1.4Mb ³ Norton Guides       
+   130³ BIT-test                      ³ b0092 ³  0x1.4Mb ³ Educa/Onderwijs     
+   131³ Black Cauldron                ³ a0077 ³  2x360Kb ³ GAME-Adventure      
+   132³ Black Cauldron SOLVE          ³ b0044 ³  0x720Kb ³ Documenten          
+   133³ Blinker                       ³ b0033 ³  0x1.4Mb ³ Norton Guides       
+   134³ Blockout                      ³ a0039 ³  0x1.2Mb ³ GAME-Denkspelen     
+   135³ Blue Max                      ³ a0258 ³  1x1.2Mb ³ GAME-Simulaties     
+   136³ Bluebox                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+   137³ Blues Brothers                ³ b0118 ³  1x1.4Mb ³ GAME-Algemeen       
+   138³ BMenu                         ³ a0026 ³  0x1.2Mb ³ UTIL-DOS/Alg.       
+   139³ BMouse87                      ³ b0029 ³  0x1.4Mb ³ UTIL-Netwerk        
+   140³ BNU rev.5                     ³ b0048 ³  0x1.4Mb ³ Norton Guides       
+   141³ Bodyworks                     ³ b0066 ³  2x1.4Mb ³ Educa/Onderwijs     
+   142³ BOI1.20                       ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   143³ Boot-B:                       ³ b0097 ³  0x1.4Mb ³ UTIL-Disk           
+   144³ Bootrec                       ³ b0018 ³  0x720Kb ³ PROG-ASM            
+   145³ Borland Icons                 ³ b0089 ³  0x720Kb ³ Windows             
+   146³ Boston Bomb Club              ³ b0260 ³  1x720Kb ³ GAME-Denkspelen     
+   147³ Bricks                        ³ a0041 ³  0x1.2Mb ³ GAME-Algemeen       
+   148³ Bruce Lee                     ³ a0089 ³  0x360Kb ³ GAME-Algemeen       
+   149³ Btree3                        ³ b0020 ³  0x720Kb ³ PROG-C              
+   150³ Bubble Bobble                 ³ a0255 ³  0x1.2Mb ³ GAME-Algemeen       
+   151³ Budokan                       ³ a0057 ³  1x1.2Mb ³ GAME-Sporten        
+   152³ Burnout device                ³ a0043 ³  0x360Kb ³ UTIL-Screen         
+   153³ Bushido                       ³ a0025 ³  1x360Kb ³ GAME-Algemeen       
+   154³ Busperformance                ³ b0160 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+   155³ Byte Benchmark                ³ b0074 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+   156³ C&T mem. Utility              ³ b0042 ³  0x720Kb ³ UTIL-Memory         
+   157³ Cadaver                       ³ a0173 ³  1x1.2Mb ³ GAME-Adventure      
+   158³ Calculus Calculator           ³ b0013 ³  0x720Kb ³ Educa/Onderwijs     
+   159³ California Games              ³ a0090 ³  1x360Kb ³ GAME-Sporten        
+   160³ California Games II           ³ a0191 ³  1x1.2Mb ³ GAME-Sporten        
+   161³ Carmen Sandiego               ³ a0038 ³  0x1.2Mb ³ Educa/Onderwijs     
+   162³ Carrier Command               ³ a0266 ³  0x1.2Mb ³ GAME-Algemeen       
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 3
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+   163³ Carriere                      ³ b0160 ³  0x1.4Mb ³ Educa/Onderwijs     
+   164³ Casino                        ³ a0195 ³  0x1.2Mb ³ GAME-Algemeen       
+   165³ Cast                          ³ b0031 ³  0x1.4Mb ³ UTIL-Netwerk        
+   166³ Caveman Ugh-lympics           ³ a0070 ³  1x1.2Mb ³ GAME-Algemeen       
+   167³ CD-Man                        ³ a0114 ³  1x360Kb ³ GAME-Algemeen       
+   168³ CED                           ³ a0043 ³  0x360Kb ³ Tekstverwerking     
+   169³ CEga                          ³ b0020 ³  0x720Kb ³ PROG-C              
+   170³ Centurion                     ³ a0064 ³  1x1.2Mb ³ GAME-Simulaties     
+   171³ Centurion trainer             ³ b0091 ³  0x720Kb ³ Documenten          
+   172³ CFI_v911                      ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   173³ CFormat                       ³ a0043 ³  0x360Kb ³ UTIL-Disk           
+   174³ ChangeCursor 1.0              ³ b0083 ³  0x1.4Mb ³ Windows             
+   175³ Charge Of The Lightbrigade    ³ b0229 ³  0x720Kb ³ GAME-Denkspelen     
+   176³ Chessmaster 2100              ³ a0072 ³  2x360Kb ³ GAME-Denkspelen     
+   177³ Chessmaster 3000              ³ b0163 ³  2x720Kb ³ GAME-Denkspelen     
+   178³ Chessmaster 3000              ³ b0396 ³  0x1.4Mb ³ Windows             
+   179³ Chipset 1.8b                  ³ b0097 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+   180³ ChiWriter 2.06                ³ a0146 ³  1x360Kb ³ Tekstverwerking     
+   181³ Chomp                         ³ b0396 ³  0x1.4Mb ³ Windows             
+   182³ Chrystals of Arborea          ³ a0130 ³  1x1.2Mb ³ GAME-Algemeen       
+   183³ Chuck Yeagers Adv. FlightT.   ³ a0053 ³  1x1.2Mb ³ GAME-Simulaties     
+   184³ Chuck Yeagers Adv. FlightT.2.0³ a0056 ³  1x1.2Mb ³ GAME-Simulaties     
+   185³ Citaten                       ³ b0048 ³  0x1.4Mb ³ Norton Guides       
+   186³ Clean v85                     ³ b0114 ³  0x1.4Mb ³ Virus               
+   187³ Clean89b                      ³ b0249 ³  0x1.4Mb ³ Virus               
+   188³ Clip-C                        ³ b0395 ³  0x1.4Mb ³ PROG-Clipper        
+   189³ Clipgraph 1.2                 ³ b0029 ³  0x1.4Mb ³ PROG-Clipper        
+   190³ Clipline                      ³ b0359 ³  0x720Kb ³ PROG-Clipper        
+   191³ Clipper                       ³ b0033 ³  0x1.4Mb ³ Norton Guides       
+   192³ Clipper/MS-C                  ³ b0359 ³  0x720Kb ³ PROG-Clipper        
+   193³ Clippercase 1.0a              ³ b0359 ³  0x720Kb ³ PROG-Clipper        
+   194³ Cliptalk                      ³ b0029 ³  0x1.4Mb ³ PROG-Clipper        
+   195³ Cliputils                     ³ b0029 ³  0x1.4Mb ³ PROG-Clipper        
+   196³ Clown (FLI)                   ³ a0041 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   197³ Club 2000                     ³ a0144 ³  0x360Kb ³ GAME-Algemeen       
+   198³ CMS-QEMM                      ³ b0109 ³  0x1.4Mb ³ Documenten          
+   199³ Codeview Debugger v2.0        ³ b0030 ³  0x1.4Mb ³ PROG-Algemeen       
+   200³ COM-2-COM                     ³ b0097 ³  0x1.4Mb ³ Communicatie        
+   201³ Compact Disc Database System  ³ a0204 ³  0x1.2Mb ³ Database            
+   202³ Compaq Cache                  ³ a0044 ³  0x1.2Mb ³ UTIL-Disk           
+   203³ Composer 669 v1.1             ³ b0379 ³  0x720Kb ³ Audio/Muziek        
+   204³ ComSupp                       ³ b0020 ³  0x720Kb ³ PROG-C              
+   205³ Conquests Of The Longbow-Solve³ b0109 ³  0x1.4Mb ³ Documenten          
+   206³ Continuum                     ³ a0162 ³  0x1.2Mb ³ GAME-Algemeen       
+   207³ Controlroom v2.58             ³ b0025 ³  1x720Kb ³ UTIL-Diags.& Perf.  
+   208³ Coorporation                  ³ b0090 ³  1x1.4Mb ³ GAME-Algemeen       
+   209³ Copy-II-PC                    ³ a0044 ³  0x1.2Mb ³ UTIL-Disk           
+   210³ Copy-II-PC                    ³ a0051 ³  1x360Kb ³ UTIL-DOS/Alg.       
+   211³ Copy-QM                       ³ b0093 ³  0x1.4Mb ³ UTIL-Disk           
+   212³ CopyIt                        ³ b0083 ³  0x1.4Mb ³ Windows             
+   213³ Coretest                      ³ a0026 ³  0x1.2Mb ³ UTIL-Diags.& Perf.  
+   214³ Coretest                      ³ b0093 ³  0x1.4Mb ³ UTIL-Diags.& Perf.  
+   215³ Coreview                      ³ b0097 ³  0x1.4Mb ³ UTIL-Memory         
+   216³ Cover                         ³ b0073 ³  0x720Kb ³ UTIL-Printer        
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 4
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+   217³ Covert Action                 ³ a0257 ³  1x1.2Mb ³ GAME-Algemeen       
+   218³ Covox                         ³ b0109 ³  0x1.4Mb ³ Documenten          
+   219³ CP Anti-virus                 ³ b0038 ³  1x720Kb ³ Virus               
+   220³ Crime Wave                    ³ a0079 ³  3x1.2Mb ³ GAME-Algemeen       
+   221³ Crystal Dream / Triton        ³ b0399 ³  1x720Kb ³ Demonstratie/Prev.  
+   222³ CShow                         ³ b0080 ³  0x720Kb ³ Norton Guides       
+   223³ CShow 8.30a                   ³ a0292 ³  0x1.2Mb ³ Grafisch            
+   224³ CShow v8.41a                  ³ b0249 ³  0x1.4Mb ³ Grafisch            
+   225³ CusBut                        ³ b0089 ³  0x720Kb ³ Windows             
+   226³ CWMemMap                      ³ b0097 ³  0x1.4Mb ³ UTIL-Memory         
+   227³ Cyrus 3D chess                ³ a0294 ³  1x1.2Mb ³ GAME-Denkspelen     
+   228³ DAHW                          ³ b0109 ³  0x1.4Mb ³ Documenten          
+   229³ Danalyst v6.0                 ³ b0310 ³  6x1.4Mb ³ PROG-Algemeen       
+   230³ Datasave                      ³ a0044 ³  0x1.2Mb ³ UTIL-Backup         
+   231³ Datasave                      ³ b0093 ³  0x1.4Mb ³ UTIL-Backup         
+   232³ Datatalk                      ³ b0029 ³  0x1.4Mb ³ PROG-Clipper        
+   233³ Davicash                      ³ b0076 ³  1x720Kb ³ Financi‰el          
+   234³ DayTime                       ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   235³ Dazzle                        ³ a0201 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   236³ Db3                           ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   237³ dBase IV                      ³ b0048 ³  0x1.4Mb ³ Norton Guides       
+   238³ DC                            ³ b0097 ³  0x1.4Mb ³ UTIL-Disk           
+   239³ DC1.11                        ³ b0083 ³  0x1.4Mb ³ Windows             
+   240³ DCE-demo                      ³ a0246 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   241³ De zakenman 3000              ³ b0092 ³  0x1.4Mb ³ GAME-Algemeen       
+   242³ Deathtrack U.S.A.             ³ a0123 ³  0x1.2Mb ³ GAME-Racing         
+   243³ Defender of the Crown         ³ a0082 ³  1x360Kb ³ GAME-Algemeen       
+   244³ DeGif                         ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   245³ Deluxe Paint II -enhanced v2.0³ b0100 ³  1x1.4Mb ³ Teken/CAD Prog.     
+   246³ DeluxePaint Animation v1.0    ³ b0338 ³  1x1.4Mb ³ Teken/CAD Prog.     
+   247³ Derive                        ³ b0013 ³  0x720Kb ³ Educa/Onderwijs     
+   248³ Desqview & Windows            ³ b0085 ³  0x1.4Mb ³ Documenten          
+   249³ Desqview utilities            ³ b0074 ³  0x1.4Mb ³ UTIL-DOS/Alg.       
+   250³ Destroyer                     ³ a0017 ³  1x360Kb ³ UTIL-Disk           
+   251³ Diagnostics                   ³ a0018 ³  0x360Kb ³ UTIL-Diags.& Perf.  
+   252³ Die hard                      ³ a0121 ³  1x1.2Mb ³ GAME-Algemeen       
+   253³ Dimmer                        ³ b0039 ³  0x1.4Mb ³ UTIL-Screen         
+   254³ Disc                          ³ a0284 ³  0x1.2Mb ³ GAME-Algemeen       
+   255³ Diskdupe                      ³ b0028 ³  0x720Kb ³ UTIL-Disk           
+   256³ Diskdupe 2.x                  ³ b0075 ³  0x1.4Mb ³ UTIL-Disk           
+   257³ Diskdupe 3.30                 ³ b0114 ³  0x1.4Mb ³ UTIL-Disk           
+   258³ Diskette label printer 3.00   ³ b0073 ³  0x720Kb ³ UTIL-Printer        
+   259³ Diskmanager 3.x               ³ a0042 ³  1x360Kb ³ UTIL-Disk           
+   260³ Diskover                      ³ a0026 ³  0x1.2Mb ³ UTIL-Printer        
+   261³ DNet                          ³ b0109 ³  0x1.4Mb ³ Documenten          
+   262³ DocIt                         ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   263³ DOCSmash                      ³ b0097 ³  0x1.4Mb ³ UTIL-Printer        
+   264³ DogBot (FLI)                  ³ a0200 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   265³ DOS Powertools 5              ³ b0248 ³  1x1.4Mb ³ UTIL-DOS/Alg.       
+   266³ DOS Utilities                 ³ b0027 ³  1x720Kb ³ UTIL-DOS/Alg.       
+   267³ Dos5Bug                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+   268³ Dos5High                      ³ b0109 ³  0x1.4Mb ³ Documenten          
+   269³ Dos5Mem                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+   270³ Dragon Lord                   ³ a0162 ³  0x1.2Mb ³ GAME-Algemeen       
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 5
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+   271³ Drift 1.2                     ³ b0089 ³  0x720Kb ³ Windows             
+   272³ Ducktales                     ³ a0255 ³  0x1.2Mb ³ GAME-Algemeen       
+   273³ Dup                           ³ b0074 ³  0x1.4Mb ³ UTIL-Disk           
+   274³ Dynasim                       ³ b0012 ³  1x720Kb ³ Educa/Onderwijs     
+   275³ E.W.B.A.                      ³ b0160 ³  0x1.4Mb ³ Educa/Onderwijs     
+   276³ e88                           ³ a0043 ³  0x360Kb ³ Tekstverwerking     
+   277³ Earl Weaver Baseball          ³ b0374 ³  1x720Kb ³ GAME-Sporten        
+   278³ Ed                            ³ a0044 ³  0x1.2Mb ³ Tekstverwerking     
+   279³ EEMRam                        ³ b0041 ³  0x1.4Mb ³ UTIL-Memory         
+   280³ EGA Girl                      ³ a0021 ³  0x360Kb ³ Grafisch            
+   281³ ELANA 1.1                     ³ b0083 ³  0x1.4Mb ³ Windows             
+   282³ Electronic Jigsaw             ³ a0120 ³  0x1.2Mb ³ GAME-Denkspelen     
+   283³ Electronics Workbench 2.0a    ³ b0238 ³  2x720Kb ³ Educa/Onderwijs     
+   284³ Elite plus                    ³ a0233 ³  0x1.2Mb ³ GAME-Algemeen       
+   285³ Elvira                        ³ b0109 ³  0x1.4Mb ³ Documenten          
+   286³ Elvira - The Arcade Game      ³ b0120 ³  1x1.4Mb ³ GAME-Algemeen       
+   287³ Elvira, mistress of the dark  ³ a0187 ³  2x1.2Mb ³ GAME-Adventure      
+   288³ EMacs                         ³ b0114 ³  0x1.4Mb ³ Tekstverwerking     
+   289³ EMM Emulator                  ³ b0357 ³  0x1.4Mb ³ UTIL-Memory         
+   290³ EMS V4.0                      ³ a0065 ³  1x360Kb ³ UTIL-Memory         
+   291³ EMS4.0 driver                 ³ b0041 ³  0x1.4Mb ³ UTIL-Memory         
+   292³ Exact Priv‚ v5.0              ³ b0337 ³  1x1.4Mb ³ Financi‰el          
+   293³ Excel v4.0                    ³ b0351 ³  5x1.4Mb ³ Windows             
+   294³ Expand                        ³ b0040 ³  0x1.4Mb ³ Norton Guides       
+   295³ Expand                        ³ b0359 ³  0x720Kb ³ PROG-Clipper        
+   296³ Expand 3.0                    ³ b0359 ³  0x720Kb ³ PROG-Clipper        
+   297³ Extender 1.30                 ³ b0039 ³  0x1.4Mb ³ UTIL-Memory         
+   298³ ExtSto                        ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+   299³ Eye of the beholder II        ³ a0288 ³  2x1.2Mb ³ GAME-Adventure      
+   300³ F117a Nighthawk StealthFighter³ b0103 ³  1x1.4Mb ³ GAME-Simulaties     
+   301³ F15 strike eagle II           ³ a0128 ³  1x1.2Mb ³ GAME-Simulaties     
+   302³ F19 Manual                    ³ b0044 ³  0x720Kb ³ Documenten          
+   303³ F19 Stealth Fighter           ³ a0134 ³  1x1.2Mb ³ GAME-Simulaties     
+   304³ F29 Doc                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+   305³ F29 Retaliator                ³ a0233 ³  0x1.2Mb ³ GAME-Simulaties     
+   306³ F29 Retaliator Manual         ³ b0091 ³  0x720Kb ³ Documenten          
+   307³ F29 Retaliator trainer        ³ b0091 ³  0x720Kb ³ Documenten          
+   308³ Fairlight intro               ³ a0246 ³  0x1.2Mb ³ Demonstratie/Prev.  
+   309³ Falcon (AT)                   ³ a0030 ³  1x1.2Mb ³ GAME-Simulaties     
+   310³ Fantavision                   ³ b0021 ³  1x720Kb ³ Teken/CAD Prog.     
+   311³ Fastdisk                      ³ b0114 ³  0x1.4Mb ³ UTIL-Disk           
+   312³ Fastgrap                      ³ b0126 ³  0x1.4Mb ³ PROG-Pascal         
+   313³ Fastlynx                      ³ b0097 ³  0x1.4Mb ³ Communicatie        
+   314³ FD-Format 1.7                 ³ b0097 ³  0x1.4Mb ³ UTIL-Disk           
+   315³ FewBlaat                      ³ b0031 ³  0x1.4Mb ³ UTIL-Netwerk        
+   316³ FewGame                       ³ b0031 ³  0x1.4Mb ³ UTIL-Netwerk        
+   317³ Filetrap                      ³ b0097 ³  0x1.4Mb ³ UTIL-Disk           
+   318³ FilmSch                       ³ b0109 ³  0x1.4Mb ³ Documenten          
+   319³ Fire & Forget II              ³ a0295 ³  0x1.2Mb ³ GAME-Algemeen       
+   320³ Fireplace                     ³ b0083 ³  0x1.4Mb ³ Windows             
+   321³ Firepower                     ³ a0071 ³  0x1.2Mb ³ GAME-Algemeen       
+   322³ Fish 2.0                      ³ b0085 ³  0x1.4Mb ³ Windows             
+   323³ Flash v1.20                   ³ b0357 ³  0x1.4Mb ³ UTIL-DOS/Alg.       
+   324³ FMat                          ³ b0003 ³  0x1.4Mb ³ PROG-Pascal         
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+                                 Pagina 6
+
+RECNo.³ PROGRAMMA                     ³ DISK  ³ No.DISKS ³ CATEGORIE           
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+   325³ FormatMaster                  ³ b0028 ³  0x720Kb ³ UTIL-Disk           
+   326³ Fortune Teller                ³ a0225 ³  1x360Kb ³ Educa/Onderwijs     
+   327³ Fossil Reference Guide        ³ b0048 ³  0x1.4Mb ³ Norton Guides       

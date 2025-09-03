@@ -1,0 +1,27 @@
+
+blinker executable clipper f64;
+blinker executable serial 00000000M.de Rooy
+
+file loader
+file main
+
+output s
+
+beginarea
+   file menu
+   file bonderh, bafdruk, bdos, beinde
+   file muteren
+   file compile
+   file optcolor, optsound, optprint, optscrn
+   file index,about,overhelp,toetsen
+   file algemeen, video, progress, specfunc, ed, cfts, translat
+   file help
+endarea
+lib cfts50
+lib overcl
+lib clfpcx50
+file nt2gr50
+lib nt250
+@funcky50
+search funblink
+@cl501min
